@@ -40,7 +40,6 @@ Estudante de Ciência da Computação (UFMS, 5º semestre) e Técnico em Inform�
 | 💧 [**aquaia-ufms**](https://github.com/PedroBertonceloF/aquaia-ufms) | 🏆 3º lugar no Hackathon UFMS — reporta desperdício de água com análise multimodal de fotos via IA | Flask, SQLite, Gemini |
 | 🧠 [**jarvis-academico**](https://github.com/PedroBertonceloF/jarvis-academico) | Assistente de estudos com IA: RAG (chunking, BM25, embeddings, FAISS) e harness de avaliação (recall@k, MRR) | FastAPI, React, Docker |
 | 📬 [**WorkFlowAgentic**](https://github.com/PedroBertonceloF/WorkFlowAgentic) | Agente que monta e envia uma newsletter de tecnologia por e-mail todo dia, 100% via GitHub Actions cron | Python, Gmail API, Gemini |
-| 🦷 [**clinica-odonto-front**](https://github.com/PedroBertonceloF/clinica-odonto-front) | Frontend da clínica odontológica | Next.js, React, TypeScript |
 
 ## 📊 GitHub
 
