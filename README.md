@@ -40,10 +40,4 @@ Estudante de Ciência da Computação (UFMS, 5º semestre) e Técnico em Inform�
 | 💧 [**aquaia-ufms**](https://github.com/PedroBertonceloF/aquaia-ufms) | 🏆 3º lugar no Hackathon UFMS — reporta desperdício de água com análise multimodal de fotos via IA | Flask, SQLite, Gemini |
 | 🧠 [**jarvis-academico**](https://github.com/PedroBertonceloF/jarvis-academico) | Assistente de estudos com IA: RAG (chunking, BM25, embeddings, FAISS) e harness de avaliação (recall@k, MRR) | FastAPI, React, Docker |
 | 📬 [**WorkFlowAgentic**](https://github.com/PedroBertonceloF/WorkFlowAgentic) | Agente que monta e envia uma newsletter de tecnologia por e-mail todo dia, 100% via GitHub Actions cron | Python, Gmail API, Gemini |
-
-## 📊 GitHub
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PedroBertonceloF&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBertonceloF&layout=compact&hide_border=true" alt="Linguagens mais usadas"/>
-</div>
+| 📊 [**dashboard-bi-ia-comparativo**](https://github.com/PedroBertonceloF/dashboard-bi-ia-comparativo) | Painel de BI que transforma qualquer CSV em dashboards com KPIs, série temporal e filtros interativos | React, FastAPI, Pandas |
